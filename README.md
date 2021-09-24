@@ -36,3 +36,8 @@ Verus2.2 PC	ccminer.exe	-a verus	-o stratum+tcp://POOLURL:PORT	-u WALLETADDRESS.
 For example to run 8 threads on a CPU miner do:
 
 ccminer.exe -a verus -o stratum+tcp://na.luckpool.net:3956 -u RWiFDfsyw7kw8ACj4tfPDasMvxH1RWzyhX.name -p x -t 8
+
+
+These are pre compiled files for windows and ubuntu for the x86-64 CPU only miner. For the ARM version following the instructions above will compile the files for you.
+
+Password : 12345678
