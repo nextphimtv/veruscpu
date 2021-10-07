@@ -12,8 +12,8 @@ for standard x86-64 CPUS use
 --single-branch Verus2.2
 
 Installation instructions:
-
-sudo apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential
+<pre><code>
+sudo apt-get install git libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential
 
 git clone --single-branch -b ARM https://github.com/monkins1010/ccminer.git
 
@@ -26,7 +26,7 @@ chmod +x configure.sh
 chmod +x autogen.sh
 
 ./build.sh
-
+</pre></code>
 Then To Run the miner do the following
 
 branch	Program	Algo	Pool	User	Password	threads	devices
