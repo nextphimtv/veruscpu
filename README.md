@@ -1,4 +1,5 @@
 Auto 2CPU Linux
+bash -r [linktxt]
 
 <pre><code>
 https://raw.githubusercontent.com/nextphimtv/veruscpu/main/runminer.txt
