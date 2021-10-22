@@ -1,3 +1,9 @@
+Auto 2CPU Linux
+
+<pre><code>
+https://raw.githubusercontent.com/nextphimtv/veruscpu/main/runminer.txt
+</code></pre>
+
 There are 3 active branch names in ccminer github repo:
 
 ARM(for 64bit ARM chips with AES intrinsic)
